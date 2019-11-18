@@ -1,2 +1,2 @@
 # leetcode
-leetcode刷题记录
+golang leetcode刷题记录 
